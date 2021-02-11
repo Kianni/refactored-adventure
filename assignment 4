@@ -1,0 +1,73 @@
+Design and layout
+
+Instructions
+
+Let's start our project! Goal of the project is to create a responsive site, as you might imagine. You choose the topic for the project. 
+
+ 
+
+So, develop your own site. You can choose your perspective: Advertising, community, company (business), something else, perhaps some kind of combination?
+
+ 
+
+Requirements for site: 
+
+consistent and feasible layout.
+Responsive menubar
+Must have: Header, menu, content area, footer. These are minimum requirements for layout
+Images
+Some kind of form(s). Could be for example "contact" or "discussion" ... Just the appearance. You don't have to implement the functionality
+At least three wisely chosen breakpoints 
+Will be tested with Chrome developer tools
+ 
+
+Design process and required documents:
+
+Preliminary project plan including
+Project files
+Report
+
+ 
+
+Now the actual assignment!
+
+1.       Planning: Preliminary project plan including documents described above.
+
+2.       Layout design as described next:
+
+ 
+
+Let's start creating layout for your own site. You already have a plan for layout so now you start implementing your plan. Note that working process is as follows:
+
+ 
+
+In this assignment you start by exploring how flexbox and grid might help you. Exploration is done by iterative development of a prototype of layout. Don't try make a final version...
+
+Based on your trials and prototypes you are able to choose method for your final implementation.
+
+But let's start!
+
+ 
+As a starting point, check out exercise 16-1 from course book (by Robbins). Following that, create a navigation bar for your own site.
+Create a prototype layout for your page using only flexbox. Analyze your prototype: what advantages/disadvantages you found when creating prototype?
+Start creating your grid prototype: 
+Edit your site's wireframe picture. Add measurements to different elements (width, height)
+After that, create a grid prototype according to your wireframe
+Analyze again: What is good and what is missing from your perspective?
+ 
+
+ 
+
+Summary:
+
+In this assignment, you will create a plan for your own site and in addition to that, you started implementation by exploring modern layouts.
+
+ 
+
+You should return following documents:
+
+Preliminary project plan
+Layout design document
+ 
+
+As we are talking about sketches and layouts, pictures are the best documentation for those!
